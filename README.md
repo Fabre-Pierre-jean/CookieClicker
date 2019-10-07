@@ -1,5 +1,5 @@
 # CookieClicker
-An other cookie clicker 
+An other cookie clicker   
 Project made during my degree
 
 
